@@ -24,6 +24,14 @@
 **문제:**  
 1. 각 테이블(Customer, Product, Order, Order_Detail)에 최소 2개의 샘플 데이터를 삽입하는 SQL INSERT 문을 작성하세요. (15점)
    - 예시: 고객 2명, 제품 2개, 주문 2개, 각 주문당 2개의 제품
+   - ![ex_screenshot](./resource/5.png)
+   - ![ex_screenshot](./resource/6.png)
+   - ![ex_screenshot](./resource/7.png)
+   - ![ex_screenshot](./resource/8.png)
+   - ![ex_screenshot](./resource/9.png)
+   - ![ex_screenshot](./resource/10.png)
+   - ![ex_screenshot](./resource/11.png)
+   - ![ex_screenshot](./resource/12.png)
 
 2. 특정 고객이 한 주문에 포함된 모든 제품과 그 수량을 조회하는 SQL SELECT 문을 작성하세요. (10점)
 
