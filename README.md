@@ -5,6 +5,7 @@
 온라인 쇼핑몰을 위한 데이터베이스를 설계하고자 합니다. 이 쇼핑몰에서는 고객, 주문, 제품 정보를 관리해야 합니다. 고객은 여러 개의 주문을 할 수 있으며, 각 주문에는 여러 제품이 포함될 수 있습니다. 
 
 **문제:**  
+***
 1. 아래의 요구사항을 충족하는 각 테이블의 스키마를 정의하는 SQL DDL(Create Table) 문을 작성하세요. (25점)
    - 고객(Customer): 고객 ID, 이름, 이메일, 주소, 전화번호
    - ![ex_screenshot](./resource/1.png)
@@ -14,7 +15,7 @@
    - ![ex_screenshot](./resource/3.png)
    - 주문 상세(Order_Detail): 주문 ID, 제품 ID, 수량, 단가
    - ![ex_screenshot](./resource/4.png)
-
+***
 
 
 ## 문제 2: 데이터 삽입 및 조회 (25점)
@@ -22,6 +23,7 @@
 위에서 설계한 데이터베이스에 샘플 데이터를 삽입하고, 고객의 주문 내역을 조회하려고 합니다.
 
 **문제:**  
+***
 1. 각 테이블(Customer, Product, Order, Order_Detail)에 최소 2개의 샘플 데이터를 삽입하는 SQL INSERT 문을 작성하세요. (15점)
    - 예시: 고객 2명, 제품 2개, 주문 2개, 각 주문당 2개의 제품
    - ![ex_screenshot](./resource/5.png)
@@ -32,10 +34,10 @@
    - ![ex_screenshot](./resource/10.png)
    - ![ex_screenshot](./resource/11.png)
    - ![ex_screenshot](./resource/12.png)
-
+***
 2. 특정 고객이 한 주문에 포함된 모든 제품과 그 수량을 조회하는 SQL SELECT 문을 작성하세요. (10점)
    ![ex_screenshot](./resource/13.png)
-
+***
 ## 문제 3: 데이터 갱신 및 삭제 (20점)
 **시나리오:**  
 고객의 주소가 변경되었으며, 특정 주문에 포함된 제품을 삭제하려고 합니다.
