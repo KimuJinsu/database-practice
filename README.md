@@ -1,3 +1,6 @@
+-  **Blog** : [Jinsu's Technical Blog](https://myinfo503.tistory.com)
+<br/><br/>
+
 # 데이터베이스 설계/SQL 단위 평가 시험 문제 구성
 
 ## 문제 1: 데이터베이스 모델링 (25점)
