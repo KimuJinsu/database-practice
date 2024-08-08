@@ -1,5 +1,4 @@
--  **Blog** : [Jinsu's Technical Blog](https://myinfo503.tistory.com)
--  <a href="https://myinfo503.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+-  **Blog** : [Jinsu's Technical Blog](https://myinfo503.tistory.com) 
 <br/><br/>
 
 # 데이터베이스 설계/SQL 단위 평가 시험 문제 구성
